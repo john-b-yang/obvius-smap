@@ -50,7 +50,7 @@ def download_script(options):
     print "Created", bmo_output, "file successfully.\n"
 
     # Request Data per URL from parsing bmo_import output
-    print "Gathering building data per URL..."
+    print "Gathering building data per URL (This will take a while)..."
     if options.hide:
         f = open(os.devnull, 'w')
         sys.stdout=f

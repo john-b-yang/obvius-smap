@@ -1,6 +1,9 @@
 ## sMAP Building Management Tool
 Maintained by Gabe Fierro, Albert Goto, and John Yang  
 
+#### Overview
+
+
 #### Installation + Setup
 1. "git clone" this repository onto your local machine, then change directory into this repository
 2. Fill out and create necessary authentication file:  
@@ -13,21 +16,10 @@ Maintained by Gabe Fierro, Albert Goto, and John Yang
     * Creates a container for running the code and commands listed below.
 
 #### Commands
-* <i>python crawl_bmo.py -l</i>;
-    - Within "obvius" directory
-    - Purpose: Generates configuration file (config.ini) that specifies which buildings' data to retrieve.
-    - Output Example: crawl_urls.txt
-    - Include the "--help" option to check out other configurations
-* <i>python bmo_import.py config.ini &lt;start date&gt; &lt;days&gt;</i>;
-    - Within "bmo" directory
-    - Purpose: Creates and gathers the URLs pointing at data within the date range specified by the "start date" and "days" arguments for each building
-    - Output Example: bmo_output.txt
-* <i>python parse_bmo.py bmo-output.txt [-u] [-d folder]</i>
-    - Within "parser" directory
-    - Purpose
-        * [-u]: Generates a text file that groups the URLs from <i>bmo_import.py</i>'s output by building
-        * [-d folder]: Downloads data per URL into a directory specified by the "folder" parameter
-    - Output Example: bmo-parsed.txt
+* <i>python download.py -d &lt;MM-DD-YYYY&gt;</i>: Downloads all building data on a specific day.
+* <i>python crawl_bmo.py -l</i>: Generates configuration file (config.ini) that specifies which buildings' data to retrieve.
+* <i>python bmo_import.py config.ini &lt;start date&gt; &lt;days&gt;</i>: Creates and gathers the URLs pointing at data within the date range specified by the "start date" and "days" arguments for each building
+* <i>python parse_bmo.py bmo-output.txt [-u] [-d folder]</i>: Downloads data per URL into a directory specified by the "folder" parameter
 
 #### Progress Track
 
