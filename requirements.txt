@@ -2,6 +2,7 @@ avro==1.8.2
 BeautifulSoup==3.2.1
 numpy==1.13.3
 pandas==0.24.1
+requests>=2.18.4
 Smap==2.0.524
 Twisted==18.9.0
 urllib3>=1.24.2

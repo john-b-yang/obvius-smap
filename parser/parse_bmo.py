@@ -25,6 +25,9 @@ def request_urls(input_name, dirname):
     newDir = "./" + dirname + "/"
     createFolder(dirname)
 
+    requests_failed = 0
+    requests_total = 0
+
     with open(input_name) as in_file:
         for _, line in enumerate(in_file):
             line = re.sub("Loading section", "", line)
@@ -49,9 +52,10 @@ def request_urls(input_name, dirname):
 
                 ### Part 2: Download data from URL
                 download = requests.get(url=line, auth=login)
-                if download.status_code >= 400:
+                if download.status_code >= 300:
                     print "Received", download.status_code, "response for request:", line
                 else:
+                    requests_total += 1
                     decoded = download.content.decode('utf-8')
                     csv_filename = re.sub(r"[\\\.:/]", "", last_location) + "-day" + str(urlCountDict[identifier])
                     csv_path = dirname + "/" + csv_filename
@@ -61,11 +65,12 @@ def request_urls(input_name, dirname):
                         print "Downloaded data for", last_location, " (Day", urlCountDict[identifier], ")"
                     except pd.errors.ParserError as err:
                         print "Parsing Error encountered with file", csv_path, ". Skipping..."
+                        requests_failed += 1
                         continue
             elif len(line) >= 0:
                 last_location = line
 
-    return None
+    return requests_failed, requests_total
 
 # Given the output from the bmo-import.py file, groups data URLs by building
 def get_urls(input_name, output_name):

@@ -38,7 +38,7 @@ def download_script(options):
         sys.stdout=f
     crawler(opts, args)
     sys.stdout = sys.__stdout__
-    print "Created config.ini, devices.json files successfully."
+    print "Created config.ini, devices.json files successfully.\n"
 
     # Retrieve Building Data URLs with config.ini
     print "Retrieving URLs for building data..."
@@ -47,15 +47,18 @@ def download_script(options):
     print "Completed gathering of URLs"
     output_file = open(bmo_output, "w+")
     output_file.write("\n".join(output))
-    print "Created", bmo_output, "file successfully."
+    print "Created", bmo_output, "file successfully.\n"
 
     # Request Data per URL from parsing bmo_import output
-    print "Gathering building data per URL"
+    print "Gathering building data per URL..."
     if options.hide:
         f = open(os.devnull, 'w')
         sys.stdout=f
-    request_urls(bmo_output, options.folder)
+    failed, total = request_urls(bmo_output, options.folder)
     sys.stdout = sys.__stdout__
+    print "Finished gathering building data!"
+    print "Failed Requests/Downloads:", failed
+    print "Total Requests/Downloads:", total
 
 if __name__ == '__main__':
     parser = OptionParser()
