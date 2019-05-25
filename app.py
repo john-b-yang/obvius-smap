@@ -3,10 +3,9 @@ from crawler.crawl_bmo import crawler
 from parser.parse_bmo import request_urls
 
 from optparse import OptionParser
-import threading
 
 from cStringIO import StringIO
-import sys
+import re, sys
 
 # For purposes of capturing std output
 class Capture(list):
@@ -20,7 +19,7 @@ class Capture(list):
         del self._stringio
         sys.stdout = self._stdout
 
-def download_script(bmo_output, data_folder):
+def download_script(bmo_output, start_date, days, data_folder):
     # Generate config.ini file
     parser = OptionParser()
     parser.add_option('-t', '--types', dest='types', default=False)
@@ -38,7 +37,7 @@ def download_script(bmo_output, data_folder):
     # Retrieve Building Data URLs with config.ini
     print "Beginning to retrieve URLs for building data..."
     with Capture() as output:
-        import_URLs("config.ini", "04-01-2019", "2")
+        import_URLs("config.ini", start_date, "2")
     print "Completed gathering of URLs"
     output_file = open(bmo_output, "w+")
     output_file.write("\n".join(output))
@@ -48,4 +47,11 @@ def download_script(bmo_output, data_folder):
     request_urls(bmo_output, data_folder)
 
 if __name__ == '__main__':
-    download_script("bmo_output.txt", "data")
+    parser = OptionParser()
+    parser.add_option('-d', dest='date', action='store', default=None, type="string", help='[REQUIRED] specify start date of data collection (MM-DD-YYYY format)')
+    parser.add_option('-n', dest='days', action='store', default=1, type="int", help='[REQUIRED] specify number of days starting from \'date\' to collect data (default 1)')
+    parser.add_option('-f', dest='folder', action='store', default="data", type="string", help='[REQUIRED] specify name of directory to store building data (default data)')
+    (opts, args) = parser.parse_args()
+    if not opts.date:
+        parser.error('Start Date parameter not given (type python app.py --help for list of arguments)')
+    download_script("bmo_output.txt", opts.date, opts.days, opts.folder)
