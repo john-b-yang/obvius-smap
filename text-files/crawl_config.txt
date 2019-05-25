@@ -1,0 +1,2808 @@
+Options/Configuration:  False
+Location:  Wheeler Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C8C
+Location:  Legends Aquatic Center  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600254B
+Location:  Hearst Field Annex  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CEC
+Location:  Calvin Laboratory  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001D07
+Location:  Latimer and Pimentel Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=0050C230ECE6
+Location:  Giannini Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CCA
+Location:  Botanical Garden  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001E01
+Location:  Soda Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=444D50805FAB
+Location:  Hesse and Obrien Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CE7
+Location:  Moffitt Library  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001C7B
+Location:  Anna Head Complex  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6070147
+Location:  Sproul Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CAE
+Location:  2000 Carleton Street  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CF3
+Location:  Etcheverry Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600077A
+Location:  Tolman Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CA3
+Location:  Rec Sports Facility  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CA0
+Location:  Lewis Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CCF
+Location:  Greek Theater  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CC0
+Location:  Moses Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001BC1
+Location:  Lower Hearst Parking Structure  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001DE1
+Location:  Lawrence Hall of Science  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C8E
+Location:  Minor Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC60701C1
+Location:  Law In-fill  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001C05
+Location:  Doe Annex  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C58
+Location:  Stephens Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CB6
+Location:  MSRI  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001C7A
+Location:  Boalt and Simon Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000793
+Location:  Minor Addition  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000495
+Location:  BAMPFA  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6002164
+Location:  Sutardja Dai Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001B32
+Location:  Anthony Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001BBF
+Location:  Kroeber Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000779
+Location:  Doe Library  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C54
+Location:  Haas School Student Services (Water)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001E49
+Location:  Haas School Cheit Hall (Water)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001DD8
+Location:  Edwards Stadium West  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001E4A
+Location:  Silver Laboratory  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CE4
+Location:  Tan Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=444D50E019ED
+Location:  Valley Life Sciences  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000073
+Location:  Soda Hall New (as of 1/12/12)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600187F
+Location:  Chou Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6002693
+Location:  Birge Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000777
+Location:  2234 Piedmont Ave  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC607013F
+Location:  Le Conte Annex  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C35
+Location:  Cory Hall New (as of 1/12/12)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001885
+Location:  Le Conte Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000459
+Location:  King Union Bldg  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000481
+Location:  LSA  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=444D50E023AE
+Location:  North Gate Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6070132
+Location:  Koshland Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=444D50E01A41
+Location:  Gilman Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C57
+Location:  Dwinelle Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600045C
+Location:  Art Museum  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C9A
+Location:  Anna Head Bldgs E&F;  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC60701F6
+Location:  Berkeley Way West  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600282B
+Location:  Barker Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=0050C230ECED
+Location:  Evans Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600077E
+Location:  Durant Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001DE7
+Location:  Strawberry Canyon Center  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001D6F
+Location:  Jacobs Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6002308
+Location:  Hudson Rugby Field House  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001E46
+Location:  Underhill Parking  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CC2
+Location:  Li Ka Shing  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C83
+Location:  Tan Hall New (as of 1/12/12)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001473
+Location:  Simpson Center  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001DD6
+Location:  2222 Piedmont Ave.  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6070140
+Location:  Hildebrand Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600077D
+Location:  Maxwell Field and Garage  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CF6
+Location:  Wurster Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=0050C230ECF2
+Location:  Cory Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=444D50E07076
+Location:  Giauque Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001C7D
+Location:  Parking B and Tennis Courts  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001DE0
+Location:  Campbell Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600219A
+Location:  2537 Haste Street  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6070192
+Location:  Hargrove Library  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C8D
+Location:  Blum Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001C55
+Location:  Hilgard Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000764
+Location:  2200 Bancroft Way  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001DCC
+Location:  2240 Piedmont Ave  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6070024
+Location:  Morgan Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C90
+Location:  Silver Addition  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=444D50E019D5
+Location:  Cal Memorial Stadium (Electric)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CF4
+Location:  University Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600043E
+Location:  2251 College Avenue  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001D9B
+Location:  McCone  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=0050C230ECF8
+Location:  Mulford Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CB2
+Location:  Northwest Animal Facility  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000B5E
+Location:  Men's Faculty Club  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600173A
+Location:  Energy Biosciences Building  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC60014D0
+Location:  South Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001D70
+Location:  Upper Hearst Parking Structure  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6070202
+Location:  Wellman Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C89
+Location:  Davis Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CD2
+Location:  Edwards Stadium East  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001BC4
+Location:  Alumni House  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001DDF
+Location:  Gardner Stacks  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000B62
+Location:  LSA New (as of 7/22/10)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000778
+Location:  Barrows Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600063F
+Location:  Haas Clubhouse  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001C97
+Location:  Hazardous Material Facility  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC60701BB
+Location:  Chavez Center  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000BB9
+Location:  Haas School of Business  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000099
+Location:  Bechtel Center  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C5A
+Location:  2224 Piedmont Ave  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC607014A
+Location:  1952 Oxford Street  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC60701E6
+Location:  Silver Addition New (as of 1/12/12)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001834
+Location:  Stanley Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600009A
+Location:  Donner Laboratory  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C24
+Location:  2232 Piedmont Ave  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC607012F
+Location:  Womens Faculty Club  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CBB
+Location:  Tang Center  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=0050C230ED00
+Location:  Hearst Mining Building  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000450
+Location:  McLaughlin Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001C79
+Location:  Zellerbach Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C8F
+Location:  Cal Memorial Stadium (Water &amp; Steam)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001CEE
+Location:  East Asian Library  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CD7
+Location:  Wurster Hall NEW (as of 12/6/10)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000B5F
+Location:  Hertz and Morrison Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6001DE3
+Location:  California Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000775
+Location:  Koshland New (as of 3/9/11)  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C2F
+Location:  ML King Eshleman and 2401 Bancroft  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC600222C
+Location:  Haviland Hall  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CC0
+Location:  SRB1 and Oxford Tract  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000044
+Location:  Haas Pavilion  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000C30
+Location:  Hearst Gym  URL:  http://www.buildingmanageronline.com/members/acquisuite_status.php?DB=dbU216ucberkelF682&AS=001EC6000CCD
+Exported Device Data to JSON
+[server]
+SuggestThreadPool = 20
+Port = 9051
+
+[/]
+Metadata/Location/Campus = UCB
+Metadata/SourceName = buildingmanageronline archive
+uuid = 91dde108-d02b-11e0-8542-0026bb56ec92
+
+[/wheeler_hall]
+type = Collection
+
+[/wheeler_hall/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Wheeler Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8C_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8C&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wheeler_hall/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Wheeler Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8C_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8C&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/legends_aquatic_center]
+type = Collection
+
+[/legends_aquatic_center/gas_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Gas and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Legends Aquatic Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600254B_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600254B&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/parking_b_and_tennis_courts]
+type = Collection
+
+[/parking_b_and_tennis_courts/parking_b_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Parking B Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Parking B and Tennis Courts
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE0_  3  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE0&MB=  3  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/parking_b_and_tennis_courts/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Parking B and Tennis Courts
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE0_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE0&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/parking_b_and_tennis_courts/tennis_courts_plus_parking_b_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Tennis Courts plus Parking B Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Parking B and Tennis Courts
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE0_  2  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE0&MB=  2  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/calvin_laboratory]
+type = Collection
+
+[/calvin_laboratory/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Calvin Laboratory
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001D07_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001D07&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/calvin_laboratory/water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Calvin Laboratory
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001D07_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001D07&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/latimer_and_pimentel_hall]
+type = Collection
+
+[/latimer_and_pimentel_hall/electric_meter_208v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter 208v&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Latimer and Pimentel Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECE6_  27  .csv?DB=dbU216ucberkelF682&AS=0050C230ECE6&MB=  27  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/latimer_and_pimentel_hall/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Latimer and Pimentel Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECE6_  250  .csv?DB=dbU216ucberkelF682&AS=0050C230ECE6&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/latimer_and_pimentel_hall/electric_meter_480v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter 480v&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Latimer and Pimentel Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECE6_  26  .csv?DB=dbU216ucberkelF682&AS=0050C230ECE6&MB=  26  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/latimer_and_pimentel_hall/latimer_roof_mech_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Latimer Roof Mech Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Latimer and Pimentel Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECE6_  76  .csv?DB=dbU216ucberkelF682&AS=0050C230ECE6&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/latimer_and_pimentel_hall/pimentel_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Pimentel Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Latimer and Pimentel Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECE6_  77  .csv?DB=dbU216ucberkelF682&AS=0050C230ECE6&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/kroeber_hall]
+type = Collection
+
+[/kroeber_hall/steam_water_and_main_electric_main_elect_through_6_30_15_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam, Water and Main Electric(Main Elect through 6/30/15)&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Kroeber Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000779_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000779&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/botanical_garden]
+type = Collection
+
+[/botanical_garden/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Botanical Garden
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001E01_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001E01&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/botanical_garden/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Botanical Garden
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001E01_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001E01&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/soda_hall]
+type = Collection
+
+[/soda_hall/electric_and_steam_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric and Steam Meters&nbsp;
+Metadata/Instrument/Model = "AcquiSuite 8811-1 Internal 4A4P-M2&nbsp;"
+Metadata/Location/Building = Soda Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50805FAB_  250  .csv?DB=dbU216ucberkelF682&AS=444D50805FAB&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hesse_and_obrien_hall]
+type = Collection
+
+[/hesse_and_obrien_hall/o_brien_main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = O Brien Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Hesse and Obrien Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CE7_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6001CE7&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hesse_and_obrien_hall/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hesse and Obrien Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CE7_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CE7&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hesse_and_obrien_hall/hesse_main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Hesse Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Hesse and Obrien Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CE7_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001CE7&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/moffitt_library]
+type = Collection
+
+[/moffitt_library/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Moffitt Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C7B_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001C7B&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/moffitt_library/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Moffitt Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C7B_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001C7B&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/sproul_hall]
+type = Collection
+
+[/sproul_hall/steam_condensate_and_water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate and Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Sproul Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CAE_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CAE&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/sproul_hall/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "SquareD, E5600, v312&nbsp;"
+Metadata/Location/Building = Sproul Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CAE_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CAE&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/2000_carleton_street]
+type = Collection
+
+[/2000_carleton_street/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = 2000 Carleton Street
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CF3_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CF3&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hearst_field_annex]
+type = Collection
+
+[/hearst_field_annex/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Hearst Field Annex
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CEC_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001CEC&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hearst_field_annex/water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hearst Field Annex
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CEC_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CEC&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/etcheverry_hall]
+type = Collection
+
+[/etcheverry_hall/480_volt_main_breaker_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 480 Volt Main Breaker&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Etcheverry Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077A_  76  .csv?DB=dbU216ucberkelF682&AS=001EC600077A&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/etcheverry_hall/208_volt_main_breaker_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 208 Volt Main Breaker&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Etcheverry Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077A_  77  .csv?DB=dbU216ucberkelF682&AS=001EC600077A&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/etcheverry_hall/steam_condensate_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Etcheverry Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077A_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600077A&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/tolman_hall]
+type = Collection
+
+[/tolman_hall/condensate_meter_oa_temp_humidity_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Condensate Meter, OA Temp   Humidity&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Tolman Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CA3_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CA3&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/tolman_hall/main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Tolman Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CA3_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CA3&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/rec_sports_facility]
+type = Collection
+
+[/rec_sports_facility/water_and_condensate_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Condensate Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Rec Sports Facility
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CA0_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CA0&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/rec_sports_facility/rsf_main_480_277_v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = RSF Main 480/277 v&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Rec Sports Facility
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CA0_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CA0&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/lewis_hall]
+type = Collection
+
+[/lewis_hall/electric_meter_500_kva_transformer_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter 500 KVA Transformer&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Lewis Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CCF_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6000CCF&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/lewis_hall/electric_and_steam_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric and Steam Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Lewis Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CCF_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CCF&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/cory_hall]
+type = Collection
+
+[/cory_hall/electric_5b7_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 5B7&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Cory Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E07076_  63  .csv?DB=dbU216ucberkelF682&AS=444D50E07076&MB=  63  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/cory_hall/electric_5a7_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 5A7&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Cory Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E07076_  58  .csv?DB=dbU216ucberkelF682&AS=444D50E07076&MB=  58  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/greek_theater]
+type = Collection
+
+[/greek_theater/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Greek Theater
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CC0_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CC0&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/greek_theater/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Greek Theater
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CC0_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001CC0&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/greek_theater/bunker_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Bunker Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Greek Theater
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CC0_  63  .csv?DB=dbU216ucberkelF682&AS=001EC6001CC0&MB=  63  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/moses_hall]
+type = Collection
+
+[/moses_hall/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Moses Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001BC1_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001BC1&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/lower_hearst_parking_structure]
+type = Collection
+
+[/lower_hearst_parking_structure/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Lower Hearst Parking Structure
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE1_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE1&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/lower_hearst_parking_structure/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Lower Hearst Parking Structure
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE1_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE1&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/lawrence_hall_of_science]
+type = Collection
+
+[/lawrence_hall_of_science/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7330&nbsp;"
+Metadata/Location/Building = Lawrence Hall of Science
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8E_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8E&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/lawrence_hall_of_science/water_and_gas_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Gas Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Lawrence Hall of Science
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8E_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8E&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/minor_hall]
+type = Collection
+
+[/minor_hall/minor_hall_main_electric_meter_1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Minor Hall Main Electric Meter #1&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Minor Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC60701C1_  76  .csv?DB=dbU216ucberkelF682&AS=001EC60701C1&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/mclaughlin_hall]
+type = Collection
+
+[/mclaughlin_hall/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = McLaughlin Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C79_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001C79&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/mclaughlin_hall/main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = McLaughlin Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C79_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001C79&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/law_in_fill]
+type = Collection
+
+[/law_in_fill/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Law In-fill
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C05_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001C05&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/doe_annex]
+type = Collection
+
+[/doe_annex/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Doe Annex
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C58_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C58&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/doe_annex/steam_condensate_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Doe Annex
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C58_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C58&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/msri]
+type = Collection
+
+[/msri/water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = MSRI
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C7A_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001C7A&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/minor_addition]
+type = Collection
+
+[/minor_addition/480v_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 480v Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Minor Addition
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000495_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000495&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/minor_addition/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Minor Addition
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000495_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000495&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/minor_addition/208v_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 208v Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Minor Addition
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000495_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000495&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/bampfa]
+type = Collection
+
+[/bampfa/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = BAMPFA
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6002164_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6002164&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/sutardja_dai_hall]
+type = Collection
+
+[/sutardja_dai_hall/msb_electric_meter_water_and_conductivity_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = MSB Electric Meter Water and Conductivity&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Sutardja Dai Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001B32_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001B32&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/sutardja_dai_hall/msb_electric_meter_as_of_7_23_15_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = MSB Electric Meter (as of 7/23/15)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Sutardja Dai Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001B32_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6001B32&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/sutardja_dai_hall/msa_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = MSA Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Sutardja Dai Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001B32_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001B32&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/anthony_hall]
+type = Collection
+
+[/anthony_hall/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Anthony Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001BBF_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001BBF&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/anthony_hall/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Anthony Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001BBF_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6001BBF&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/doe_library]
+type = Collection
+
+[/doe_library/main_electric_meter_2_480_277_v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter 2 (480/277 v)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Doe Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C54_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C54&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/doe_library/main_electric_meter_1_208_120_v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter 1 (208/120 v)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Doe Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C54_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000C54&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/doe_library/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Doe Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C54_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C54&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/haas_school_student_services_water]
+type = Collection
+
+[/haas_school_student_services_water/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Haas School Student Services (Water)
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001E49_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001E49&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/haas_school_cheit_hall_water]
+type = Collection
+
+[/haas_school_cheit_hall_water/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Haas School Cheit Hall (Water)
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DD8_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001DD8&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/edwards_stadium_west]
+type = Collection
+
+[/edwards_stadium_west/edwards_stadium_west_water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Edwards Stadium West Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Edwards Stadium West
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001E4A_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001E4A&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/edwards_stadium_west/edwards_stadium_west_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Edwards Stadium West Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Edwards Stadium West
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001E4A_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001E4A&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/silver_laboratory]
+type = Collection
+
+[/silver_laboratory/480v_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 480v Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Silver Laboratory
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CE4_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6001CE4&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/silver_laboratory/208v_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 208v Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Silver Laboratory
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CE4_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001CE4&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/silver_laboratory/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Silver Laboratory
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CE4_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CE4&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/valley_life_sciences]
+type = Collection
+
+[/valley_life_sciences/rm_1030b_left_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Rm 1030B Left Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Valley Life Sciences
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000073_  80  .csv?DB=dbU216ucberkelF682&AS=001EC6000073&MB=  80  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/valley_life_sciences/rm_1030b_right_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Rm 1030B Right Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Valley Life Sciences
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000073_  81  .csv?DB=dbU216ucberkelF682&AS=001EC6000073&MB=  81  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/valley_life_sciences/steam_condensate_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Valley Life Sciences
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000073_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000073&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/valley_life_sciences/rm_150_right_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Rm 150 Right Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Valley Life Sciences
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000073_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000073&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/valley_life_sciences/rm_1180_right_electric_meter_nw_corner_of_bldg_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Rm 1180 Right Electric Meter (NW Corner of Bldg)&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Valley Life Sciences
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000073_  79  .csv?DB=dbU216ucberkelF682&AS=001EC6000073&MB=  79  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/valley_life_sciences/rm_1180_left_electric_meter_nw_corner_of_bldg_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Rm 1180 Left Electric Meter ( NW Corner of Bldg)&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Valley Life Sciences
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000073_  78  .csv?DB=dbU216ucberkelF682&AS=001EC6000073&MB=  78  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/valley_life_sciences/rm_150_left_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Rm 150 Left Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Valley Life Sciences
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000073_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000073&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/soda_hall_new_as_of_1_12_12]
+type = Collection
+
+[/soda_hall_new_as_of_1_12_12/electric_and_steam_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric and Steam Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Soda Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600187F_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600187F&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/chou_hall]
+type = Collection
+
+[/chou_hall/water_and_gas_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Gas Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Chou Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6002693_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6002693&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/tan_hall]
+type = Collection
+
+[/tan_hall/tan_hall_208_120v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Tan Hall 208/120V&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Tan Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E019ED_  29  .csv?DB=dbU216ucberkelF682&AS=444D50E019ED&MB=  29  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/tan_hall/tan_hall_480_277v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Tan Hall 480/277V&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Tan Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E019ED_  30  .csv?DB=dbU216ucberkelF682&AS=444D50E019ED&MB=  30  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/le_conte_annex]
+type = Collection
+
+[/le_conte_annex/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Le Conte Annex
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C35_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C35&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/le_conte_annex/steam_condensate_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Le Conte Annex
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C35_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C35&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/cory_hall_new_as_of_1_12_12]
+type = Collection
+
+[/cory_hall_new_as_of_1_12_12/electric_5b7_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 5B7&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Cory Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001885_  63  .csv?DB=dbU216ucberkelF682&AS=001EC6001885&MB=  63  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/cory_hall_new_as_of_1_12_12/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Cory Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001885_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001885&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/cory_hall_new_as_of_1_12_12/electric_5a7_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 5A7&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Cory Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001885_  58  .csv?DB=dbU216ucberkelF682&AS=001EC6001885&MB=  58  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/le_conte_hall]
+type = Collection
+
+[/le_conte_hall/leconte_msb_1_208_120_v_starting_12_13_2018_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = LeConte MSB-1 (208/120 v) (starting 12-13-2018)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Le Conte Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000459_  116  .csv?DB=dbU216ucberkelF682&AS=001EC6000459&MB=  116  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/le_conte_hall/electric_steam_cond_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Steam Cond and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Le Conte Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000459_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000459&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/le_conte_hall/leconte_msb_2_480_277_v_starting_12_13_2018_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = LeConte MSB-2 (480/277 v) (starting 12-13-2018)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Le Conte Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000459_  117  .csv?DB=dbU216ucberkelF682&AS=001EC6000459&MB=  117  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/king_union_bldg]
+type = Collection
+
+[/king_union_bldg/main_electric_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = King Union Bldg
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000481_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000481&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/lsa]
+type = Collection
+
+[/lsa/lsa_msb_2_south_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = LSA MSB-2 South&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = LSA
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E023AE_  11  .csv?DB=dbU216ucberkelF682&AS=444D50E023AE&MB=  11  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/lsa/lsa_msb_1_north_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = LSA MSB-1 North&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = LSA
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E023AE_  12  .csv?DB=dbU216ucberkelF682&AS=444D50E023AE&MB=  12  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/srb1_and_oxford_tract]
+type = Collection
+
+[/srb1_and_oxford_tract/oxford_tract_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Oxford Tract Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = SRB1 and Oxford Tract
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000044_  183  .csv?DB=dbU216ucberkelF682&AS=001EC6000044&MB=  183  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/srb1_and_oxford_tract/srb1_data_center_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = SRB1 Data Center Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = SRB1 and Oxford Tract
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000044_  181  .csv?DB=dbU216ucberkelF682&AS=001EC6000044&MB=  181  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/srb1_and_oxford_tract/srb1_main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = SRB1 Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = SRB1 and Oxford Tract
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000044_  182  .csv?DB=dbU216ucberkelF682&AS=001EC6000044&MB=  182  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/srb1_and_oxford_tract/srb1_steam_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = SRB1 Steam Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = SRB1 and Oxford Tract
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000044_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000044&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/koshland_hall]
+type = Collection
+
+[/koshland_hall/electric_480v_left_hsrla_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 480V Left HSRLA&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Koshland Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E01A41_  93  .csv?DB=dbU216ucberkelF682&AS=444D50E01A41&MB=  93  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_hall/electric_480v_right_hsrlb_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 480V Right HSRLB&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Koshland Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E01A41_  91  .csv?DB=dbU216ucberkelF682&AS=444D50E01A41&MB=  91  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_hall/electric_120v_right_lsrla_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 120V Right LSRLA&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Koshland Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E01A41_  92  .csv?DB=dbU216ucberkelF682&AS=444D50E01A41&MB=  92  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_hall/electric_120v_left_lsrlb_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 120V Left LSRLB&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Koshland Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E01A41_  94  .csv?DB=dbU216ucberkelF682&AS=444D50E01A41&MB=  94  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/dwinelle_hall]
+type = Collection
+
+[/dwinelle_hall/classroom_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Classroom Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Dwinelle Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600045C_  77  .csv?DB=dbU216ucberkelF682&AS=001EC600045C&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/dwinelle_hall/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Dwinelle Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600045C_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600045C&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/dwinelle_hall/office_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Office Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Dwinelle Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600045C_  76  .csv?DB=dbU216ucberkelF682&AS=001EC600045C&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/art_museum]
+type = Collection
+
+[/art_museum/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Art Museum
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C9A_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C9A&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/art_museum/steam_condensate_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Art Museum
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C9A_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C9A&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/boalt_and_simon_hall]
+type = Collection
+
+[/boalt_and_simon_hall/east_480v_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = East 480V Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Boalt and Simon Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000793_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000793&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/boalt_and_simon_hall/east_208v_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = East 208V Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7330&nbsp;"
+Metadata/Location/Building = Boalt and Simon Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000793_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000793&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/boalt_and_simon_hall/electric_steam_condensate_and_water_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric, Steam Condensate and Water&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Boalt and Simon Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000793_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000793&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/berkeley_way_west]
+type = Collection
+
+[/berkeley_way_west/water_and_gas_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Gas Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Berkeley Way West
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600282B_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600282B&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/barker_hall]
+type = Collection
+
+[/barker_hall/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Barker Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECED_  185  .csv?DB=dbU216ucberkelF682&AS=0050C230ECED&MB=  185  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/barker_hall/condensate_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Condensate and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Barker Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECED_  250  .csv?DB=dbU216ucberkelF682&AS=0050C230ECED&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/evans_hall]
+type = Collection
+
+[/evans_hall/federal_pacific_switchgear_right_main_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Federal Pacific Switchgear Right Main&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Evans Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077E_  106  .csv?DB=dbU216ucberkelF682&AS=001EC600077E&MB=  106  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/evans_hall/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Evans Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077E_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600077E&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/evans_hall/mitsubishi_switchgear_right_main_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Mitsubishi Switchgear Right Main&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Evans Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077E_  77  .csv?DB=dbU216ucberkelF682&AS=001EC600077E&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/evans_hall/federal_pacific_switchgear_left_main_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Federal Pacific Switchgear Left Main&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Evans Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077E_  153  .csv?DB=dbU216ucberkelF682&AS=001EC600077E&MB=  153  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/evans_hall/mitsubishi_switchgear_left_main_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Mitsubishi Switchgear Left Main&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Evans Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077E_  76  .csv?DB=dbU216ucberkelF682&AS=001EC600077E&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/gilman_hall]
+type = Collection
+
+[/gilman_hall/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Gilman Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C57_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C57&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/gilman_hall/208v_main_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 208v Main Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Gilman Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C57_  78  .csv?DB=dbU216ucberkelF682&AS=001EC6000C57&MB=  78  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/gilman_hall/208v_lighting_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 208v Lighting Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Gilman Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C57_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000C57&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/gilman_hall/480v_main_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 480v Main Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Gilman Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C57_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C57&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/strawberry_canyon_center]
+type = Collection
+
+[/strawberry_canyon_center/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Strawberry Canyon Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001D6F_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6001D6F&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/strawberry_canyon_center/water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Strawberry Canyon Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001D6F_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001D6F&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stephens_hall]
+type = Collection
+
+[/stephens_hall/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7330&nbsp;"
+Metadata/Location/Building = Stephens Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CB6_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CB6&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/stephens_hall/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Stephens Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CB6_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CB6&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hudson_rugby_field_house]
+type = Collection
+
+[/hudson_rugby_field_house/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hudson Rugby Field House
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001E46_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001E46&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hudson_rugby_field_house/strawberry_parking_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Strawberry Parking Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Hudson Rugby Field House
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001E46_  3  .csv?DB=dbU216ucberkelF682&AS=001EC6001E46&MB=  3  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hudson_rugby_field_house/hudson_house_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Hudson House Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Hudson Rugby Field House
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001E46_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6001E46&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/underhill_parking]
+type = Collection
+
+[/underhill_parking/field_lights_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Field Lights Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Underhill Parking
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CC2_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6001CC2&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/underhill_parking/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Underhill Parking
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CC2_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CC2&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/li_ka_shing]
+type = Collection
+
+[/li_ka_shing/electric_steam_condensate_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Steam Condensate and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Li Ka Shing
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C83_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C83&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/tan_hall_new_as_of_1_12_12]
+type = Collection
+
+[/tan_hall_new_as_of_1_12_12/tan_hall_208_120v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Tan Hall 208/120V&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Tan Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001473_  29  .csv?DB=dbU216ucberkelF682&AS=001EC6001473&MB=  29  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/tan_hall_new_as_of_1_12_12/tan_hall_480_277v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Tan Hall 480/277V&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Tan Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001473_  30  .csv?DB=dbU216ucberkelF682&AS=001EC6001473&MB=  30  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/tan_hall_new_as_of_1_12_12/gilman_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Gilman Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Tan Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001473_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001473&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/simpson_center]
+type = Collection
+
+[/simpson_center/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Simpson Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DD6_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001DD6&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/simpson_center/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Simpson Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DD6_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001DD6&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/durant_hall]
+type = Collection
+
+[/durant_hall/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Durant Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE7_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE7&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hildebrand_hall]
+type = Collection
+
+[/hildebrand_hall/208v_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 208V Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7330&nbsp;"
+Metadata/Location/Building = Hildebrand Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077D_  77  .csv?DB=dbU216ucberkelF682&AS=001EC600077D&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hildebrand_hall/480v_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 480V Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7330&nbsp;"
+Metadata/Location/Building = Hildebrand Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077D_  76  .csv?DB=dbU216ucberkelF682&AS=001EC600077D&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hildebrand_hall/steam_condensate_and_water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate and Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hildebrand Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600077D_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600077D&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/maxwell_field_and_garage]
+type = Collection
+
+[/maxwell_field_and_garage/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Maxwell Field and Garage
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CF6_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CF6&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall]
+type = Collection
+
+[/wurster_hall/4th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 4th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  40  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  40  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/7th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 7th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  70  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  70  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/lower_north_compressed_air_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Lower North Compressed Air&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  12  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  12  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/electric_water_and_steam_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Water and Steam Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  250  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/ef_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = EF-2&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  10  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  10  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/heating_equip_north_mech_room_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Heating Equip North Mech Room&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  11  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  11  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/my_new_device_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = My New Device&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  80  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  80  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/9th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 9th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  90  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  90  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/abb_drives_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = ABB Drives&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  91  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  91  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/5th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 5th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  50  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  50  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall/6th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 6th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF2_  60  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF2&MB=  60  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/giannini_hall]
+type = Collection
+
+[/giannini_hall/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "SquareD, E5600, v312&nbsp;"
+Metadata/Location/Building = Giannini Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CCA_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CCA&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/giannini_hall/water_and_steam_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Steam Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Giannini Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CCA_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CCA&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/giauque_hall]
+type = Collection
+
+[/giauque_hall/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Giauque Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C7D_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001C7D&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/giauque_hall/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Giauque Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C7D_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001C7D&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/campbell_hall]
+type = Collection
+
+[/campbell_hall/water_and_condensate_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Condensate Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Campbell Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600219A_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600219A&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hargrove_library]
+type = Collection
+
+[/hargrove_library/electric_and_steam_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric and Steam Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hargrove Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8D_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8D&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hargrove_library/hargrove_main_electric_starting_12_13_2018_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Hargrove Main Electric (starting 12-13-2018)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Hargrove Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8D_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8D&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/blum_hall]
+type = Collection
+
+[/blum_hall/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Blum Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C55_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001C55&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hilgard_hall]
+type = Collection
+
+[/hilgard_hall/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Hilgard Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000764_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000764&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hilgard_hall/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hilgard Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000764_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000764&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/2200_bancroft_way]
+type = Collection
+
+[/2200_bancroft_way/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = 2200 Bancroft Way
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DCC_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001DCC&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/2200_bancroft_way/garage_exhaust_fan_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Garage Exhaust Fan&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = 2200 Bancroft Way
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DCC_  2  .csv?DB=dbU216ucberkelF682&AS=001EC6001DCC&MB=  2  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/2200_bancroft_way/garage_lights_and_receptacles_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Garage Lights and Receptacles&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = 2200 Bancroft Way
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DCC_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6001DCC&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/morgan_hall]
+type = Collection
+
+[/morgan_hall/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Morgan Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C90_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C90&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/morgan_hall/water_and_steam_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Steam Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Morgan Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C90_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C90&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/silver_addition]
+type = Collection
+
+[/silver_addition/main_electric_meter_480v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter 480V&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Silver Addition
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/444D50E019D5_  70  .csv?DB=dbU216ucberkelF682&AS=444D50E019D5&MB=  70  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/cal_memorial_stadium_electric]
+type = Collection
+
+[/cal_memorial_stadium_electric/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Cal Memorial Stadium (Electric)
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CF4_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CF4&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/university_hall]
+type = Collection
+
+[/university_hall/electric_sub_steam_condensate_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Sub Steam Condensate Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = University Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600043E_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600043E&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/university_hall/rm_33c_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Rm 33C Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = University Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600043E_  76  .csv?DB=dbU216ucberkelF682&AS=001EC600043E&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/2251_college_avenue]
+type = Collection
+
+[/2251_college_avenue/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = 2251 College Avenue
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001D9B_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001D9B&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/mccone]
+type = Collection
+
+[/mccone/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = McCone
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF8_  77  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF8&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/mccone/unconfigured_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Unconfigured&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = McCone
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF8_  1  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF8&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/mccone/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = McCone
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ECF8_  250  .csv?DB=dbU216ucberkelF682&AS=0050C230ECF8&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/mulford_hall]
+type = Collection
+
+[/mulford_hall/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Mulford Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CB2_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CB2&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/mulford_hall/main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Mulford Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CB2_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CB2&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/northwest_animal_facility]
+type = Collection
+
+[/northwest_animal_facility/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "SquareD, E5600, v312&nbsp;"
+Metadata/Location/Building = Northwest Animal Facility
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5E_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5E&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/northwest_animal_facility/steam_condensate_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Northwest Animal Facility
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5E_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5E&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/men_s_faculty_club]
+type = Collection
+
+[/men_s_faculty_club/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Men's Faculty Club
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600173A_  1  .csv?DB=dbU216ucberkelF682&AS=001EC600173A&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/men_s_faculty_club/water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Men's Faculty Club
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600173A_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600173A&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/energy_biosciences_building]
+type = Collection
+
+[/energy_biosciences_building/electrc_gas_water_main_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electrc Gas Water Main Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Energy Biosciences Building
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC60014D0_  250  .csv?DB=dbU216ucberkelF682&AS=001EC60014D0&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/alumni_house]
+type = Collection
+
+[/alumni_house/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Alumni House
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DDF_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001DDF&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wellman_hall]
+type = Collection
+
+[/wellman_hall/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "SquareD, E5600, v312&nbsp;"
+Metadata/Location/Building = Wellman Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C89_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C89&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wellman_hall/water_and_condensate_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Condensate Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Wellman Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C89_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C89&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/davis_hall]
+type = Collection
+
+[/davis_hall/main_electric_208_120v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric 208/120V&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Davis Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CD2_  2  .csv?DB=dbU216ucberkelF682&AS=001EC6000CD2&MB=  2  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/davis_hall/steam_condensate_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Davis Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CD2_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CD2&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/davis_hall/main_electric_480v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric 480V&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Davis Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CD2_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6000CD2&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/edwards_stadium_east]
+type = Collection
+
+[/edwards_stadium_east/edwards_stadium_east_water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Edwards Stadium East Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Edwards Stadium East
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001BC4_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001BC4&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/edwards_stadium_east/edwards_stadium_east_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Edwards Stadium East Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Edwards Stadium East
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001BC4_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001BC4&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/south_hall]
+type = Collection
+
+[/south_hall/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = South Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001D70_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001D70&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/south_hall/water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = South Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001D70_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001D70&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/gardner_stacks]
+type = Collection
+
+[/gardner_stacks/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Gardner Stacks
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B62_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000B62&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/gardner_stacks/steam_condensate_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Gardner Stacks
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B62_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000B62&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/lsa_new_as_of_7_22_10]
+type = Collection
+
+[/lsa_new_as_of_7_22_10/main_electric_msb_2_south_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric MSB-2 South&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = LSA 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000778_  11  .csv?DB=dbU216ucberkelF682&AS=001EC6000778&MB=  11  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/lsa_new_as_of_7_22_10/main_electric_msb_1_north_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric MSB-1 North&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = LSA 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000778_  12  .csv?DB=dbU216ucberkelF682&AS=001EC6000778&MB=  12  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/lsa_new_as_of_7_22_10/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and  Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = LSA 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000778_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000778&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/barrows_hall]
+type = Collection
+
+[/barrows_hall/electric_steam_and_water_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric, Steam and Water&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Barrows Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600063F_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600063F&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/haas_clubhouse]
+type = Collection
+
+[/haas_clubhouse/lbnl_electric_submeter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = LBNL Electric Submeter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Haas Clubhouse
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C97_  2  .csv?DB=dbU216ucberkelF682&AS=001EC6001C97&MB=  2  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/haas_clubhouse/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Haas Clubhouse
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C97_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6001C97&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/haas_clubhouse/water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Haas Clubhouse
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001C97_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001C97&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/chavez_center]
+type = Collection
+
+[/chavez_center/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Chavez Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000BB9_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000BB9&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/chavez_center/chavez_main_electric_meter_1_480_v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Chavez Main Electric Meter 1 (480 v)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Chavez Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000BB9_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000BB9&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/chavez_center/chavez_main_electric_meter_2_208_120_v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Chavez Main Electric Meter 2 (208/120 v)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Chavez Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000BB9_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000BB9&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/haas_school_of_business]
+type = Collection
+
+[/haas_school_of_business/east_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = East Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Haas School of Business
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000099_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000099&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/haas_school_of_business/west_main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = West Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Haas School of Business
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000099_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000099&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/haas_school_of_business/main_electric_and_steam_condensate_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric and Steam Condensate&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Haas School of Business
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000099_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000099&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/bechtel_center]
+type = Collection
+
+[/bechtel_center/bechtel_480_277_v_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Bechtel 480/277 v Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Bechtel Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C5A_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C5A&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/bechtel_center/bechtel_208_120_v_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Bechtel 208/120 v Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Bechtel Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C5A_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000C5A&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/bechtel_center/condensate_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Condensate and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Bechtel Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C5A_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C5A&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/silver_addition_new_as_of_1_12_12]
+type = Collection
+
+[/silver_addition_new_as_of_1_12_12/gas_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Gas and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Silver Addition 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001834_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001834&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/silver_addition_new_as_of_1_12_12/main_electric_meter_480v_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter 480V&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Silver Addition 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001834_  70  .csv?DB=dbU216ucberkelF682&AS=001EC6001834&MB=  70  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/stanley_hall]
+type = Collection
+
+[/stanley_hall/spare_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = SPARE&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  73  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  73  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/main_1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = MAIN 1&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  59  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  59  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/main_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = MAIN 2&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  77  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/ats_leq1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = ATS-LEQ1&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  35  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  35  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/main_4_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = MAIN 4&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  51  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  51  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/ch_3_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = CH-3&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  62  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  62  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/d48_1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = D48-1&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  63  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  63  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/tie_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = TIE&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  68  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  68  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/main_3_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = MAIN 3&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  33  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  33  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/nbus_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = NBUS-2&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  47  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  47  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/ats_meq3_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = ATS-MEQ3&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  61  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  61  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/electric_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/d4b2_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = D4B2-2&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  60  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  60  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/ats_e_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = ATS-E&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  34  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  34  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/ch_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = CH-2&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  74  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  74  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/ats_meq2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = ATS-MEQ2&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  76  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/d4b3_1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = D4B3-1&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  37  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  37  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/nbus_1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = NBUS-1&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  48  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  48  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/d4b2_1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = D4B2-1&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  69  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  69  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/nbus_3_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = NBUS-3&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  36  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  36  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/stanley_hall/ats_meq1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = ATS-MEQ1&nbsp;
+Metadata/Instrument/Model = "GE Enhanced MicroVersaTrip&nbsp;"
+Metadata/Location/Building = Stanley Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600009A_  75  .csv?DB=dbU216ucberkelF682&AS=001EC600009A&MB=  75  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/donner_laboratory]
+type = Collection
+
+[/donner_laboratory/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Donner Laboratory
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C24_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C24&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/donner_laboratory/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Donner Laboratory
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C24_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C24&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/birge_hall]
+type = Collection
+
+[/birge_hall/steam_condensate_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Condensate and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Birge Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000777_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000777&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/birge_hall/main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7330&nbsp;"
+Metadata/Location/Building = Birge Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000777_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000777&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/womens_faculty_club]
+type = Collection
+
+[/womens_faculty_club/main_electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Womens Faculty Club
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CBB_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001CBB&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/womens_faculty_club/water_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Womens Faculty Club
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CBB_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CBB&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/tang_center]
+type = Collection
+
+[/tang_center/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Tang Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ED00_  160  .csv?DB=dbU216ucberkelF682&AS=0050C230ED00&MB=  160  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/tang_center/internal_io_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal IO&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Tang Center
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/0050C230ED00_  250  .csv?DB=dbU216ucberkelF682&AS=0050C230ED00&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hearst_mining_building]
+type = Collection
+
+[/hearst_mining_building/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hearst Mining Building
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000450_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000450&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hearst_mining_building/electric_meter_120_208_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter 120/208&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Hearst Mining Building
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000450_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000450&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hearst_mining_building/electric_meter_277_480_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter 277/480&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = Hearst Mining Building
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000450_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000450&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/jacobs_hall]
+type = Collection
+
+[/jacobs_hall/internal_i_o_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Internal I/O&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Jacobs Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6002308_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6002308&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/zellerbach_hall]
+type = Collection
+
+[/zellerbach_hall/main_electric_meter_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter #2&nbsp;
+Metadata/Instrument/Model = "SquareD, E5600, v312&nbsp;"
+Metadata/Location/Building = Zellerbach Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8F_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8F&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/zellerbach_hall/water_and_steam_condensate_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Steam Condensate Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Zellerbach Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8F_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8F&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/zellerbach_hall/main_electric_meter_1_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter #1&nbsp;
+Metadata/Instrument/Model = "SquareD, E5600, v312&nbsp;"
+Metadata/Location/Building = Zellerbach Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C8F_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C8F&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/cal_memorial_stadium_water_steam]
+type = Collection
+
+[/cal_memorial_stadium_water_steam/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Cal Memorial Stadium (Water &amp; Steam)
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001CEE_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001CEE&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/east_asian_library]
+type = Collection
+
+[/east_asian_library/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = East Asian Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CD7_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CD7&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/east_asian_library/steam_and_conductivity_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Conductivity Meter&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = East Asian Library
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CD7_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CD7&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10]
+type = Collection
+
+[/wurster_hall_new_as_of_12_6_10/4th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 4th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  40  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  40  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/7th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 7th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  70  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  70  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/9th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 9th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  90  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  90  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/e9_ef_69_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = E9 (EF 69)&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  54  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  54  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/315_studio_plug_load_1_of_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 315 Studio Plug Load 1 of 2&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3Y-208-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  31  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  31  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/315_studio_plug_load_2_of_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 315 Studio Plug Load 2 of 2&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3Y-208-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  32  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  32  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/electric_water_and_steam_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Water and Steam Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/lower_north_compressed_air_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Lower North Compressed Air&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  12  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  12  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/ef_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = EF-2&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  10  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  10  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/cafe_1_of_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Cafe (1 of 2)&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  4  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  4  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/e6_7_8_ef_68_70_71_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = E6,7,8 (EF 68,70,71)&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  51  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  51  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/5th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 5th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  50  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  50  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/cafe_2_of_2_was_ramona_s_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Cafe (2 of 2) (was Ramona s)&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3Y-208-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  5  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  5  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/elevator_6_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Elevator 6&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  52  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  52  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/kilns_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Kilns&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3Y-208-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  6  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  6  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/elevator_1_2_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Elevator 1,   2&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  101  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  101  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/e_11_12_13_ef_65_66_67_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = E 11,12,13  ( EF 65, 66, 67)&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  53  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  53  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/hp_29_hp30_ca_28_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = HP 29, HP30, CA 28&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  2  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  2  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/heating_equip_north_mech_room_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Heating Equip North Mech Room&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  11  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  11  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/8th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 8th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  80  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  80  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/hp_31_hp_32_hp_35_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = HP 31, HP 32, HP 35&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  3  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  3  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/e3_e4_e5_s2_roof_n_tower_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = E3, E4, E5, S2 (Roof N Tower)&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  102  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  102  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/abb_drives_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = ABB Drives&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  91  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  91  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/sf_46_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = SF 46&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  8  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  8  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/wurster_hall_new_as_of_12_6_10/6th_floor_plug_load_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = 6th Floor Plug Load&nbsp;
+Metadata/Instrument/Model = "Continental Control Systems LLC, WattNode MODBUS, WNC-3D-480-MB&nbsp;"
+Metadata/Location/Building = Wurster Hall 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000B5F_  60  .csv?DB=dbU216ucberkelF682&AS=001EC6000B5F&MB=  60  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hertz_and_morrison_hall]
+type = Collection
+
+[/hertz_and_morrison_hall/hertz_main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Hertz Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Hertz and Morrison Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE3_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE3&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hertz_and_morrison_hall/morrison_main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Morrison Main Electric&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Hertz and Morrison Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE3_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE3&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hertz_and_morrison_hall/water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hertz and Morrison Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6001DE3_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6001DE3&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/california_hall]
+type = Collection
+
+[/california_hall/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = California Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000775_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000775&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/california_hall/main_electric_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric&nbsp;
+Metadata/Instrument/Model = "Shark 100&nbsp;"
+Metadata/Location/Building = California Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000775_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000775&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_new_as_of_3_9_11]
+type = Collection
+
+[/koshland_new_as_of_3_9_11/electric_480v_left_hsrlb_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 480V Left HSRLB&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  93  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  93  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_new_as_of_3_9_11/electric_120v_left_lsrlb_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 120V Left LSRLB&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  94  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  94  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_new_as_of_3_9_11/pat_brown_lighting_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Pat Brown Lighting&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  127  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  127  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_new_as_of_3_9_11/nw_pkg_garage_lights_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = NW Pkg Garage Lights&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  1  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  1  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/koshland_new_as_of_3_9_11/pat_brown_power_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Pat Brown Power&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  195  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  195  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_new_as_of_3_9_11/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/koshland_new_as_of_3_9_11/nw_pkg_garage_fans_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = NW Pkg Garage Fans&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  2  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  2  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/koshland_new_as_of_3_9_11/pat_brown_fans_sf1_ef6_ef7_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Pat Brown Fans (SF1, EF6, EF7)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  122  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  122  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_new_as_of_3_9_11/electric_480v_right_hsrla_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 480V Right HSRLA&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  91  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  91  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_new_as_of_3_9_11/electric_120v_right_lsrla_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric 120V Right LSRLA&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 7300&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  92  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  92  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/koshland_new_as_of_3_9_11/gpb_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = GPB&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = Koshland 
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C2F_  3  .csv?DB=dbU216ucberkelF682&AS=001EC6000C2F&MB=  3  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/ml_king_eshleman_and_2401_bancroft]
+type = Collection
+
+[/ml_king_eshleman_and_2401_bancroft/steam_and_water_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam and Water Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = ML King Eshleman and 2401 Bancroft
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600222C_  250  .csv?DB=dbU216ucberkelF682&AS=001EC600222C&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/ml_king_eshleman_and_2401_bancroft/lower_sproul_garage_exhaust_fan_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Lower Sproul Garage Exhaust Fan&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = ML King Eshleman and 2401 Bancroft
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600222C_  20  .csv?DB=dbU216ucberkelF682&AS=001EC600222C&MB=  20  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/ml_king_eshleman_and_2401_bancroft/lower_sproul_garage_lighting_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Lower Sproul Garage Lighting&nbsp;
+Metadata/Instrument/Model = "Veris Full-Data Energy Meter H8163-CB&nbsp;"
+Metadata/Location/Building = ML King Eshleman and 2401 Bancroft
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC600222C_  21  .csv?DB=dbU216ucberkelF682&AS=001EC600222C&MB=  21  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/haviland_hall]
+type = Collection
+
+[/haviland_hall/electric_meter_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Electric Meter&nbsp;
+Metadata/Instrument/Model = "SquareD, E5600, v312&nbsp;"
+Metadata/Location/Building = Haviland Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CC0_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CC0&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/haviland_hall/water_and_condensate_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Water and Condensate Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Haviland Hall
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CC0_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CC0&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/haas_pavilion]
+type = Collection
+
+[/haas_pavilion/main_electric_meter_as_of_9_12_16_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter (as of 9/12/16)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Haas Pavilion
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C30_  78  .csv?DB=dbU216ucberkelF682&AS=001EC6000C30&MB=  78  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/haas_pavilion/dwinelle_annex_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Dwinelle Annex&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Haas Pavilion
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C30_  77  .csv?DB=dbU216ucberkelF682&AS=001EC6000C30&MB=  77  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/haas_pavilion/alumni_house_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Alumni House&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Haas Pavilion
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C30_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000C30&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/haas_pavilion/main_electric_meter_thru_5_24_16_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Main Electric Meter (thru 5/24/16)&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Haas Pavilion
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000C30_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000C30&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hearst_gym]
+type = Collection
+
+[/hearst_gym/old_main_electric_meter_disconnected_dec_2014_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Old Main Electric Meter (disconnected Dec 2014)&nbsp;
+Metadata/Instrument/Model = "SquareD, E5600, v312&nbsp;"
+Metadata/Location/Building = Hearst Gym
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CCD_  76  .csv?DB=dbU216ucberkelF682&AS=001EC6000CCD&MB=  76  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hearst_gym/unconfigured_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Unconfigured&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Hearst Gym
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CCD_  174  .csv?DB=dbU216ucberkelF682&AS=001EC6000CCD&MB=  174  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
+[/hearst_gym/steam_meters_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Steam Meters&nbsp;
+Metadata/Instrument/Model = "Obvius, A8812, Internal I/O&nbsp;"
+Metadata/Location/Building = Hearst Gym
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CCD_  250  .csv?DB=dbU216ucberkelF682&AS=001EC6000CCD&MB=  250  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+Rate = 300
+
+[/hearst_gym/old_rifle_range_submeter_disconnected_dec_2014_nbsp]
+type = smap.drivers.obvius.bmo.BMOLoader
+Metadata/Extra/MeterName = Old Rifle Range  submeter (disconnected Dec 2014)&nbsp;
+Metadata/Instrument/Model = "Power Measurement ION 6200&nbsp;"
+Metadata/Location/Building = Hearst Gym
+Url = http://www.buildingmanageronline.com/members/mbdev_export.php/001EC6000CCD_  78  .csv?DB=dbU216ucberkelF682&AS=001EC6000CCD&MB=  78  &DOWNLOAD=YES&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s
+
