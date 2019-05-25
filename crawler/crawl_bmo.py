@@ -34,26 +34,14 @@ def remove_entities(s):
         return s
     return re.sub('&.*;', '', s)
 
-if __name__ == '__main__':
-    parser = OptionParser()
-    parser.add_option('-t', '--types', dest='types', action='store_true', default=False,
-                      help='print the types of devices found')
-    parser.add_option('-n', '--no-cache', dest='cache', action='store_false', default=True,
-                      help='do not use cached pages')
-    parser.add_option('-b', '--buildings', dest='buildings', action='store_true', default=False,
-                      help='show building list')
-    parser.add_option('-p', '--progress', dest='progress', action='store_true', default=False,
-                      help='show buildings as we load them')
-    parser.add_option('-l', '--load', dest='load', action='store_true', default=False,
-                      help='generate conf for loading data from bmo')
-    parser.add_option('-d', '--database', dest='db', action='store_true', default=False,
-                      help='generate a prototype sensordb for an instrument')
-    (opts, args) = parser.parse_args()
+def crawler(options, arguments):
+    opts = options
+    args = arguments
+
     opts.conf = True
     if opts.types or opts.buildings or opts.load or opts.db:
         opts.conf = False
     print "Options/Configuration: ", opts.conf
-    # print("Successfully Loaded All Command Line Arguments")
 
     # find all the AcquiSuite boxes
     devices = {}
@@ -123,7 +111,7 @@ if __name__ == '__main__':
         conf.set('/', 'type', 'Collection')
 
         for location, devs in devices.iteritems():
-            if not location in auth.AUTH: continue
+            if not location in AUTH: continue
 
             parent_sec = make_section((location, ))
             conf.add_section(parent_sec)
@@ -137,8 +125,8 @@ if __name__ == '__main__':
                     sec = make_section((location, d['name']))
                     conf.add_section(sec)
                     conf.set(sec, 'type', 'smap.drivers.obvius.obvius.Driver')
-                    conf.set(sec, 'Username', auth.AUTH[location][0])
-                    conf.set(sec, 'Password', auth.AUTH[location][1])
+                    conf.set(sec, 'Username', AUTH[location][0])
+                    conf.set(sec, 'Password', AUTH[location][1])
                     conf.set(sec, 'Url', 'http://' + devs['ip'] +
                              '/setup/devicexml.cgi?ADDRESS=%s&TYPE=DATA' % d['address'],)
                     conf.set(sec, 'ObviousType', d['type'])
@@ -151,7 +139,7 @@ if __name__ == '__main__':
         for location, devs in devices.iteritems():
             params = urlparse.parse_qs(urlparse.urlsplit(devs['href']).query)
             if not "AS" in params or not  "DB" in params: continue
-            if location in auth.AUTH: continue
+            if location in AUTH: continue
             thisconf = {}
             for d in devs['subdevices']:
                 if sensordb.get_map(d['type'], location) != None:
@@ -224,3 +212,20 @@ if __name__ == '__main__':
         print "generate sensordb"
         for location, devs in devices.iteritems():
             print devs
+
+if __name__ == '__main__':
+    parser = OptionParser()
+    parser.add_option('-t', '--types', dest='types', action='store_true', default=False,
+                      help='print the types of devices found')
+    parser.add_option('-n', '--no-cache', dest='cache', action='store_false', default=True,
+                      help='do not use cached pages')
+    parser.add_option('-b', '--buildings', dest='buildings', action='store_true', default=False,
+                      help='show building list')
+    parser.add_option('-p', '--progress', dest='progress', action='store_true', default=False,
+                      help='show buildings as we load them')
+    parser.add_option('-l', '--load', dest='load', action='store_true', default=False,
+                      help='generate conf for loading data from bmo')
+    parser.add_option('-d', '--database', dest='db', action='store_true', default=False,
+                      help='generate a prototype sensordb for an instrument')
+    (opts, args) = parser.parse_args()
+    crawler(opts, args)

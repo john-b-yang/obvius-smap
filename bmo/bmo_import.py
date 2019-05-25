@@ -43,7 +43,19 @@ def do_next_day(*args):
         return d
     else:
         reactor.stop()
-        os._exit(1)
+
+def import_URLs(config, start_day, num_days):
+    global startdt
+    global enddt
+    global inst
+    global days
+
+    inst = loader.load(config)
+    startdt = dtutil.strptime_tz(re.sub("-", " ", start_day), "%m %d %Y")
+    enddt = startdt + datetime.timedelta(days=1)
+    days = int(num_days)
+    do_next_day()
+    reactor.run()
 
 if __name__ == '__main__':
     if len(sys.argv) != 4: # File Data
@@ -52,9 +64,4 @@ if __name__ == '__main__':
         print "\tExample: %s config.ini 04-01-2019 3\n" % sys.argv[0]
     else:
         # log.startLogging(sys.stdout)
-        inst = loader.load(sys.argv[1])
-        startdt = dtutil.strptime_tz(re.sub("-", " ", sys.argv[2]), "%m %d %Y")
-        enddt = startdt + datetime.timedelta(days=1)
-        days = int(sys.argv[3])
-        do_next_day()
-        reactor.run()
+        import_URLs(sys.argv[1], sys.argv[2], sys.argv[3])

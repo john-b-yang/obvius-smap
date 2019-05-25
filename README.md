@@ -18,14 +18,14 @@ Maintained by Gabe Fierro, Albert Goto, and John Yang
     - Purpose: Generates configuration file (config.ini) that specifies which buildings' data to retrieve.
     - Output Example: crawl_urls.txt
     - Include the "--help" option to check out other configurations
-* <i>python bmo-import.py config.ini &lt;start date&gt; &lt;days&gt;</i>;
+* <i>python bmo_import.py config.ini &lt;start date&gt; &lt;days&gt;</i>;
     - Within "bmo" directory
     - Purpose: Creates and gathers the URLs pointing at data within the date range specified by the "start date" and "days" arguments for each building
     - Output Example: bmo_output.txt
 * <i>python parse_bmo.py bmo-output.txt [-u] [-d folder]</i>
     - Within "parser" directory
     - Purpose
-        * [-u]: Generates a text file that groups the URLs from <i>bmo-import.py</i>'s output by building
+        * [-u]: Generates a text file that groups the URLs from <i>bmo_import.py</i>'s output by building
         * [-d folder]: Downloads data per URL into a directory specified by the "folder" parameter
     - Output Example: bmo-parsed.txt
 
@@ -34,7 +34,7 @@ Maintained by Gabe Fierro, Albert Goto, and John Yang
 | To Do | Description |
 | ----- | ----------- |
 | Data Ingestion | Set up how building data is parsed, interpreted, and stored. |
-| Unnecessary Files | bmo-import's dependencies are from sMAP. sensordb, obvius, bmo files may not be necessary (bmo-import.py) |
+| Unnecessary Files | bmo_import's dependencies are from sMAP. sensordb, obvius, bmo files may not be necessary (bmo_import.py) |
 | Parsing Error | Many parsing errors when downloading files (parse_bmo.py) |
 
 #### Issues
