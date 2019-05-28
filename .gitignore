@@ -3,3 +3,5 @@
 auth.py
 data/
 __pycache__
+config.ini
+devices.json

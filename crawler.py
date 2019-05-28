@@ -1,7 +1,6 @@
 import os, re, sys
-import pprint
 from bs4 import BeautifulSoup as bs
-import configparser
+import argparse, configparser
 
 import pandas as pd
 import json, string
@@ -14,11 +13,9 @@ try:
 except ImportError:
     import collections as ordereddict
 
-sys.path.append("../../newlib")
-
-def to_pathname(s):
-    s = re.sub('[\W/]+', '_', s)
-    s = re.sub('_*$', '', s)
+def to_pathname(value):
+    s = re.sub(r'[\W/]+', '_', value)
+    s = re.sub(r'_*$', '', s)
     return s.lower()
 
 def remove_nbsp(s):
@@ -27,7 +24,19 @@ def remove_nbsp(s):
     s = re.sub("&nbsp;", '', s);
     return s
 
-def crawler():
+def createFolder(directory):
+    try:
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+    except OSError:
+        print("Error encountered when creating directory")
+        os._exit(1)
+
+def crawler(start, end):
+    # Define Time parameters appropriately
+    startArgs = start.split("-")
+    endArgs = end.split("-")
+
     # find all the AcquiSuite boxes
     devices = {}
     response = requests.get(BMOROOT + STATUSPAGE, auth=AUTH)
@@ -79,7 +88,7 @@ def crawler():
                     d['address'] + '.csv' + "?DB=" + params['DB'][0] + '&AS=' + \
                     params['AS'][0] + '&MB=' + d['address'] + '&DOWNLOAD=YES' + \
                     "&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=COMMA" + \
-                    '&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s'
+                    '&DATE_RANGE_STARTTIME={}&DATE_RANGE_ENDTIME={}'
                 dlurl = str.replace(dlurl, " ", "")
                 thisconf[d['name']] = (
                     d['type'],
@@ -121,10 +130,20 @@ def crawler():
             cf.set(meter_path, 'Url', url)
 
             # add any extra config options specific to this meter type
-            map = sensordb.get_map(metertype, building_name)
-            if 'extra' in map:
-                for k,v in map['extra'].items():
+            sensor_map = sensordb.get_map(metertype, building_name)
+            if 'extra' in sensor_map:
+                for k,v in sensor_map['extra'].items():
                     cf.set(meter_path, k, v)
+
+            request_url = url.format(start, end) \
+                + "&mnuStartMonth=" + startArgs[1] \
+                + "&mnuStartDay=" + startArgs[2] \
+                + "&mnuStartYear=" + startArgs[0] \
+                + "&mnuStartTime=0%3A0" \
+                + "&mnuEndMonth=" + endArgs[1] \
+                + "&mnuEndDay=" + endArgs[2] \
+                + "&mnuEndYear=" + endArgs[0] \
+                + "&mnuEndTime=23%3A59"
 
     config_file = open("config.ini", "w")
     cf.write(config_file)
@@ -132,30 +151,9 @@ def crawler():
 
 if __name__ == '__main__':
     # Defining Arguments
-    # parser = OptionParser()
-    # parser.add_option('-c', '--config', dest='config', action='store', default=None, help='[Required] Config File containing building data URLs')
-    # parser.add_option('-s', '--start', dest='start', action='store', default=None, help='[Required] Start Date of Query (MM-DD-YYYY)')
-    # parser.add_option('-e', '--end', dest='end', action='store', default=None, help='[Required] End Date of Query (MM-DD-YYYY)')
-    # (opts, args) = parser.parse_args()
-    #
-    # start = opts.start
-    # end = opts.end
-    #
-    # # Validating Argument Semantics
-    # try:
-    #     datetime.datetime.strptime(opts.start, 'MM-DD-YYYY')
-    # except ValueError:
-    #     print 'Incorrect start date format, should be MM-DD-YYYY'
-    #     os._exit(1)
-    #
-    # try:
-    #     datetime.datetime.strptime(opts.end, 'MM-DD-YYYY')
-    # except ValueError:
-    #     print 'Incorrect end date format, should be MM-DD-YYYY'
-    #     os._exit(1)
-    #
-    # if not os.path.exists(opts.config):
-    #     print 'Given config file not found'
-    #     os._exit(1)
+    parser = argparse.ArgumentParser(description="Specify Start and End Dates of Building Data Query")
+    parser.add_argument("-s", "--start", help="[Required] Start Date of Query (MM-DD-YYYY)", required=True, type=str, metavar="YYYY-MM-DD")
+    parser.add_argument("-e", "--end", help='[Required] End Date of Query (MM-DD-YYYY)', required=True, type=str, metavar="YYYY-MM-DD")
+    args = parser.parse_args()
 
-    crawler()
+    crawler(args.start, args.end)
