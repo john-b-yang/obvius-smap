@@ -1,24 +1,18 @@
-import pandas as pd
-import json
-import string
-# Above added by John Yang
-
-import sys
-import re
+import os, re, sys
 import pprint
 from BeautifulSoup import BeautifulSoup as bs
-from smap.iface.http.httputils import load_html
 from optparse import OptionParser
 import ConfigParser
-import urllib
-import urlparse
+
+import pandas as pd
+import json, string
+import requests, urllib, urlparse
 
 import ConfigParser
 try:
     import ordereddict
 except ImportError:
     import collections as ordereddict
-
 
 try:
     import ordereddict
@@ -39,13 +33,15 @@ def crawler(options, arguments):
     args = arguments
 
     opts.conf = True
-    if opts.types or opts.buildings or opts.load or opts.db:
+    if opts.types or opts.buildings or opts.load:
         opts.conf = False
     print "Options/Configuration: ", opts.conf
 
     # find all the AcquiSuite boxes
     devices = {}
-    soup = load_html(BMOROOT + STATUSPAGE, auth=AUTH, cache=opts.cache)
+    response = requests.get(BMOROOT + STATUSPAGE, auth=AUTH)
+    soup = bs(response.content)
+
     for tr in soup.findAll('tr'):
         tds = tr('td')
         if len(tds) != 6: continue
@@ -61,8 +57,8 @@ def crawler(options, arguments):
         if opts.progress:
             print("Processing", location)
         print "Location: ", location, " URL: ", BMOROOT + devices[location]['href']
-        soup = load_html(BMOROOT + devices[location]['href'], auth=AUTH, cache=opts.cache)
-        # print(soup)
+        response = requests.get(BMOROOT + devices[location]['href'], auth=AUTH)
+        soup = bs(response.content)
         subdevices = []
         for tr in soup.findAll('tr'):
             tds = tr('td')
@@ -91,7 +87,6 @@ def crawler(options, arguments):
                 mtypes[t['type']]['count'] = mtypes[t['type']]['count'] + 1
                 mtypes[t['type']]['locs'].append(name)
         for n, c in mtypes.iteritems():
-            # print "MTypes: Count - ", c['count'], n, ' '.join(c['locs'])
             print>>sys.stderr, c['count'], n, ' '.join(c['locs'])
 
     if opts.buildings:
@@ -200,32 +195,15 @@ def crawler(options, arguments):
         cf.write(config_file)
         config_file.close()
 
-    #     else:
-    #         for k, v in conf.iteritems():
-    #             if len(v) > 1:
-    #                 for (meter, ) in v.iteritems():
-    #                     print '/' + obvius.to_pathname(k) + '/' + obvius.to_pathname(meter) + ',' + k + " " + meter
-    #             else:
-    #                 print '/' + obvius.to_pathname(k) + '/' + obvius.to_pathname(v.keys()[0]) + ',' + k
-
-    elif opts.db:
-        print "generate sensordb"
-        for location, devs in devices.iteritems():
-            print devs
-
 if __name__ == '__main__':
     parser = OptionParser()
     parser.add_option('-t', '--types', dest='types', action='store_true', default=False,
                       help='print the types of devices found')
-    parser.add_option('-n', '--no-cache', dest='cache', action='store_false', default=True,
-                      help='do not use cached pages')
     parser.add_option('-b', '--buildings', dest='buildings', action='store_true', default=False,
                       help='show building list')
     parser.add_option('-p', '--progress', dest='progress', action='store_true', default=False,
                       help='show buildings as we load them')
     parser.add_option('-l', '--load', dest='load', action='store_true', default=False,
                       help='generate conf for loading data from bmo')
-    parser.add_option('-d', '--database', dest='db', action='store_true', default=False,
-                      help='generate a prototype sensordb for an instrument')
     (opts, args) = parser.parse_args()
     crawler(opts, args)
