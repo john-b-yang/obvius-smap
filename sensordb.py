@@ -1,7 +1,6 @@
 import sys
 import re
 
-from smap import util
 MAYBEFLOATPAT = r'^(-?\d+(\.\d+)?)'
 
 """Format for the entries under 'sensors' and 'meters' is a 5-tuple consisting of:
@@ -405,8 +404,12 @@ unit_replace = [
     ("^[cC][fF]", "CF"),
     ]
 
+def str_path(s):
+    """Make a string appropriate to be a path compnent"""
+    return s.lower().replace(' ', '_').replace('/', '_')
+
 def guess_conf(type, location, header):
-    print >>sys.stderr, "l", location, "t", type
+    print("l" + location + "t" + type, file=sys.stderr)
     if type.startswith("Obvius, A8812"):
         conf = { "sensors" : [],  "meters" : [], "extra" : {"Rate": 300} }
         if header:
@@ -422,15 +425,9 @@ def guess_conf(type, location, header):
                             name.endswith("Max") or \
                             name.startswith("time"):
                         continue
-                    print "%s ... %s ... %s" % (col, name, unit)
-                    conf["sensors"].append((col, MAYBEFLOATPAT, "", util.str_path(name), unit))
+                    print("%s ... %s ... %s" % (col, name, unit))
+                    conf["sensors"].append((col, MAYBEFLOATPAT, "", str_path(name), unit))
         return conf
-#     elif type.startswith("AcquiSuite 8811-1"):
-#         if not header: return True
-#         print header
-#     elif type.startswith("Obvius, ModHopper, R9120"):
-#         if not header: return True
-#         print header
     return None
 
 TYPES = [x['obviusname'] for x in DB]

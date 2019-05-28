@@ -1,18 +1,13 @@
 import os, re, sys
 import pprint
-from BeautifulSoup import BeautifulSoup as bs
-from optparse import OptionParser
-import ConfigParser
+from bs4 import BeautifulSoup as bs
+import configparser
 
 import pandas as pd
 import json, string
-import requests, urllib, urlparse
-
-import ConfigParser
-try:
-    import ordereddict
-except ImportError:
-    import collections as ordereddict
+import requests, urllib
+from auth import *
+import sensordb
 
 try:
     import ordereddict
@@ -20,27 +15,23 @@ except ImportError:
     import collections as ordereddict
 
 sys.path.append("../../newlib")
-import sensordb
-from auth import *
 
-def remove_entities(s):
-    if (type(s) != str):
+def to_pathname(s):
+    s = re.sub('[\W/]+', '_', s)
+    s = re.sub('_*$', '', s)
+    return s.lower()
+
+def remove_nbsp(s):
+    if not s:
         return s
-    return re.sub('&.*;', '', s)
+    s = re.sub("&nbsp;", '', s);
+    return s
 
-def crawler(options, arguments):
-    opts = options
-    args = arguments
-
-    opts.conf = True
-    if opts.types or opts.buildings or opts.load:
-        opts.conf = False
-    print "Options/Configuration: ", opts.conf
-
+def crawler():
     # find all the AcquiSuite boxes
     devices = {}
     response = requests.get(BMOROOT + STATUSPAGE, auth=AUTH)
-    soup = bs(response.content)
+    soup = bs(response.content, features="html.parser")
 
     for tr in soup.findAll('tr'):
         tds = tr('td')
@@ -48,162 +39,123 @@ def crawler(options, arguments):
 
         name = tds[0].a.string
         devices[name] = {
-            'ip' : remove_entities(tds[3].string),
+            'ip' : remove_nbsp(tds[3].string),
             'href' : tds[0].a['href'],
             }
 
     # look at all the meters hanging off each of them
-    for location in devices.iterkeys():
-        if opts.progress:
-            print("Processing", location)
-        print "Location: ", location, " URL: ", BMOROOT + devices[location]['href']
+    for location in devices.keys():
+        print("Location: ", location, " URL: ", BMOROOT + devices[location]['href'])
         response = requests.get(BMOROOT + devices[location]['href'], auth=AUTH)
-        soup = bs(response.content)
+        soup = bs(response.content, features="html.parser")
         subdevices = []
         for tr in soup.findAll('tr'):
             tds = tr('td')
             if len(tds) != 5 or tds[3].a != None: continue
             subdevices.append({
-                    'address' : re.sub("<.*?>", " ", str(tds[0])),
-                    'status': remove_entities(tds[1].string),
-                    'name' : remove_entities(tds[2].string),
-                    'type' : remove_entities(tds[3].string),
-                    'firmware': remove_entities(tds[4].string)
+                    'address' : re.sub("<.*?>", "", str(tds[0])),
+                    'status': remove_nbsp(tds[1].string),
+                    'name' : remove_nbsp(tds[2].string),
+                    'type' : remove_nbsp(tds[3].string),
+                    'firmware': remove_nbsp(tds[4].string)
                     })
         devices[location]['subdevices'] = subdevices
 
-    crawlJSON = json.dumps(devices)
     f = open("devices.json", "w")
-    print >> f, crawlJSON
+    with open("devices.json", "w") as out:
+        out.write(json.dumps(devices))
     f.close()
-    print "Exported Device Data to JSON"
+    print("Exported Device Data to JSON")
 
-    if opts.types:
-        mtypes = {}
-        for name, v in devices.iteritems():
-            for t in v['subdevices']:
-                if not t['type'] in mtypes:
-                    mtypes[t['type']] = {'count': 0, 'locs': []}
-                mtypes[t['type']]['count'] = mtypes[t['type']]['count'] + 1
-                mtypes[t['type']]['locs'].append(name)
-        for n, c in mtypes.iteritems():
-            print>>sys.stderr, c['count'], n, ' '.join(c['locs'])
+    conf = {}
+    for location, devs in devices.items():
+        params = urllib.parse.parse_qs(urllib.parse.urlsplit(devs['href']).query)
+        if not "AS" in params or not  "DB" in params: continue
+        if location in AUTH: continue
+        thisconf = {}
+        for d in devs['subdevices']:
+            if sensordb.get_map(d['type'], location) != None:
+                dlurl = BMOROOT + 'mbdev_export.php/' + params['AS'][0] + '_' +  \
+                    d['address'] + '.csv' + "?DB=" + params['DB'][0] + '&AS=' + \
+                    params['AS'][0] + '&MB=' + d['address'] + '&DOWNLOAD=YES' + \
+                    "&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=COMMA" + \
+                    '&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s'
+                dlurl = str.replace(dlurl, " ", "")
+                thisconf[d['name']] = (
+                    d['type'],
+                    dlurl)
 
-    if opts.buildings:
-        print >>sys.stderr, '\n'.join(devices.iterkeys())
+        if len(thisconf) > 0:
+            conf[location] = thisconf
 
-    if opts.conf:
-        def make_section(cmps):
-            # cmps = map(lambda s: s.replace(' ', '_'), cmps)
-            # return '/' + '/'.join(map(lambda s: urllib.quote(s, safe=''), cmps))i
-            import random
-            return 'path' + str(random.randint(0, 100000000))
+    # generate config file
+    cf = configparser.RawConfigParser('', ordereddict.OrderedDict)
+    cf.optionxform = str
 
-        conf = ConfigParser.ConfigParser('', ordereddict.OrderedDict)
-        conf.optionxform = str
-        conf.add_section('/')
-        conf.set('/', 'Metadata/Location/Campus', 'UCB')
-        conf.set('/', 'type', 'Collection')
+    cf.add_section('server')
+    cf.set('server', 'SuggestThreadPool', '20')
+    cf.set('server', 'Port', '9051')
+    cf.add_section('/')
+    cf.set('/', 'Metadata/Location/Campus', 'UCB')
+    cf.set('/', 'Metadata/SourceName', 'buildingmanageronline archive')
+    cf.set('/', 'uuid', '91dde108-d02b-11e0-8542-0026bb56ec92')
 
-        for location, devs in devices.iteritems():
-            if not location in AUTH: continue
+    for building in conf.keys():
+        building_path = '/' + to_pathname(building)
+        cf.add_section(building_path)
+        cf.set(building_path, 'type', 'Collection')
+        for metername in conf[building].keys():
+            metertype, url = conf[building][metername]
 
-            parent_sec = make_section((location, ))
-            conf.add_section(parent_sec)
-            conf.set(parent_sec, 'type', 'Collection')
-            conf.set(parent_sec, 'Metadata/Location/Building', location)
+            building_name = building
+            if "New" in building_name:
+                building_name = building_name[:building_name.index("New")]
+            if "NEW" in building_name:
+                building_name = building_name[:building_name.index("NEW")]
 
-            sec = None
-            for d in devs['subdevices']:
-                map = sensordb.get_map(d['type'], location)
-                if map != None:
-                    sec = make_section((location, d['name']))
-                    conf.add_section(sec)
-                    conf.set(sec, 'type', 'smap.drivers.obvius.obvius.Driver')
-                    conf.set(sec, 'Username', AUTH[location][0])
-                    conf.set(sec, 'Password', AUTH[location][1])
-                    conf.set(sec, 'Url', 'http://' + devs['ip'] +
-                             '/setup/devicexml.cgi?ADDRESS=%s&TYPE=DATA' % d['address'],)
-                    conf.set(sec, 'ObviousType', d['type'])
-            if sec == None:
-                conf.remove_section(parent_sec)
+            meter_path = building_path + '/' + to_pathname(metername)
+            cf.add_section(meter_path)
+            cf.set(meter_path, 'Metadata/Extra/MeterName', metername)
+            cf.set(meter_path, 'Metadata/Instrument/Model', '"' + metertype + '"')
+            cf.set(meter_path, 'Metadata/Location/Building', building_name)
+            cf.set(meter_path, 'Url', url)
 
-        conf.write(sys.stderr)
-    elif opts.load:
-        conf = {}
-        for location, devs in devices.iteritems():
-            params = urlparse.parse_qs(urlparse.urlsplit(devs['href']).query)
-            if not "AS" in params or not  "DB" in params: continue
-            if location in AUTH: continue
-            thisconf = {}
-            for d in devs['subdevices']:
-                if sensordb.get_map(d['type'], location) != None:
-                    dlurl = BMOROOT + 'mbdev_export.php/' + params['AS'][0] + '_' +  \
-                        d['address'] + '.csv' + "?DB=" + params['DB'][0] + '&AS=' + \
-                        params['AS'][0] + '&MB=' + d['address'] + '&DOWNLOAD=YES' + \
-                        "&COLNAMES=ON&EXPORTTIMEZONE=UTC&DELIMITER=TAB" + \
-                        '&DATE_RANGE_STARTTIME=%s&DATE_RANGE_ENDTIME=%s'
-                    dlurl = string.replace(dlurl, " ", "")
-                    thisconf[d['name']] = (
-                        d['type'],
-                        dlurl)
+            # add any extra config options specific to this meter type
+            map = sensordb.get_map(metertype, building_name)
+            if 'extra' in map:
+                for k,v in map['extra'].items():
+                    cf.set(meter_path, k, v)
 
-            if len(thisconf) > 0:
-                conf[location] = thisconf
-
-        # generate config file
-        cf = ConfigParser.ConfigParser('', ordereddict.OrderedDict)
-        cf.optionxform = str
-        import obvius
-        cf.add_section('server')
-        cf.set('server', 'SuggestThreadPool', '20')
-        cf.set('server', 'Port', '9051')
-
-        cf.add_section('/')
-        cf.set('/', 'Metadata/Location/Campus', 'UCB')
-        cf.set('/', 'Metadata/SourceName', 'buildingmanageronline archive')
-        cf.set('/', 'uuid', '91dde108-d02b-11e0-8542-0026bb56ec92')
-
-        for building in conf.iterkeys():
-            building_path = '/' + obvius.to_pathname(building)
-            cf.add_section(building_path)
-            cf.set(building_path, 'type', 'Collection')
-            for metername in conf[building].iterkeys():
-                metertype, url = conf[building][metername]
-
-                building_name = building
-                if "New" in building_name:
-                    building_name = building_name[:building_name.index("New")]
-                if "NEW" in building_name:
-                    building_name = building_name[:building_name.index("NEW")]
-
-                meter_path = building_path + '/' + obvius.to_pathname(metername)
-                cf.add_section(meter_path)
-                cf.set(meter_path, 'type', 'smap.drivers.obvius.bmo.BMOLoader')
-                cf.set(meter_path, 'Metadata/Extra/MeterName', metername)
-                cf.set(meter_path, 'Metadata/Instrument/Model', '"' + metertype + '"')
-                cf.set(meter_path, 'Metadata/Location/Building', building_name)
-                cf.set(meter_path, 'Url', url)
-
-                # add any extra config options specific to this meter type
-                map = sensordb.get_map(metertype, building_name)
-                if 'extra' in map:
-                    for k,v in map['extra'].iteritems():
-                        cf.set(meter_path, k, v)
-
-        config_file = open("config.ini", "w")
-        cf.write(config_file)
-        config_file.close()
+    config_file = open("config.ini", "w")
+    cf.write(config_file)
+    config_file.close()
 
 if __name__ == '__main__':
-    parser = OptionParser()
-    parser.add_option('-t', '--types', dest='types', action='store_true', default=False,
-                      help='print the types of devices found')
-    parser.add_option('-b', '--buildings', dest='buildings', action='store_true', default=False,
-                      help='show building list')
-    parser.add_option('-p', '--progress', dest='progress', action='store_true', default=False,
-                      help='show buildings as we load them')
-    parser.add_option('-l', '--load', dest='load', action='store_true', default=False,
-                      help='generate conf for loading data from bmo')
-    (opts, args) = parser.parse_args()
-    crawler(opts, args)
+    # Defining Arguments
+    # parser = OptionParser()
+    # parser.add_option('-c', '--config', dest='config', action='store', default=None, help='[Required] Config File containing building data URLs')
+    # parser.add_option('-s', '--start', dest='start', action='store', default=None, help='[Required] Start Date of Query (MM-DD-YYYY)')
+    # parser.add_option('-e', '--end', dest='end', action='store', default=None, help='[Required] End Date of Query (MM-DD-YYYY)')
+    # (opts, args) = parser.parse_args()
+    #
+    # start = opts.start
+    # end = opts.end
+    #
+    # # Validating Argument Semantics
+    # try:
+    #     datetime.datetime.strptime(opts.start, 'MM-DD-YYYY')
+    # except ValueError:
+    #     print 'Incorrect start date format, should be MM-DD-YYYY'
+    #     os._exit(1)
+    #
+    # try:
+    #     datetime.datetime.strptime(opts.end, 'MM-DD-YYYY')
+    # except ValueError:
+    #     print 'Incorrect end date format, should be MM-DD-YYYY'
+    #     os._exit(1)
+    #
+    # if not os.path.exists(opts.config):
+    #     print 'Given config file not found'
+    #     os._exit(1)
+
+    crawler()

@@ -1,8 +1,6 @@
-avro==1.8.2
-BeautifulSoup==3.2.1
-numpy==1.13.3
-pandas==0.24.1
-requests>=2.18.4
-Smap==2.0.524
-Twisted==18.9.0
-urllib3>=1.24.2
+beautifulsoup4==4.7.1
+configpraser==3.7.4
+numpy==1.16.4
+pandas==0.24.2
+requests==2.22.0
+urllib3==1.25.3

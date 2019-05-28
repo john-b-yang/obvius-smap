@@ -1,5 +1,5 @@
-# Python 2.7 Run Time Base Image
-FROM python:2.7
+# Python 3.7 Run Time Base Image
+FROM python:3.7
 
 MAINTAINER John Yang (john.yang20@berkeley.edu)
 
