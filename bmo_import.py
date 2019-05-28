@@ -3,16 +3,27 @@ import re
 import sys
 import time
 import datetime
+from dateutil.tz import *
 
 from twisted.internet import reactor, defer
 from twisted.python import log
 
 from smap import loader
 from smap.drivers.obvius import bmo # import bmo
-from smap.contrib import dtutil
+
+def strptime_tz(str, format='%x %X', tzstr='Local'):
+  '''Returns an aware datetime object. tzstr is a timezone string such as
+     'US/Pacific' or 'Local' by default which uses the local timezone.
+  '''
+  dt = datetime.datetime.strptime(str, format)
+  if tzstr == 'Local':
+      tz = tzlocal()
+  else:
+      tz = gettz(tzstr)
+  return dt.replace(tzinfo = tz)
 
 # day to start import at
-startdt = dtutil.strptime_tz("04 01 2019", "%m %d %Y")
+startdt = strptime_tz("04 01 2019", format="%m %d %Y")
 enddt = startdt + datetime.timedelta(days=1)
 days = 3
 
@@ -51,7 +62,7 @@ def import_URLs(config, start_day, num_days):
     global days
 
     inst = loader.load(config)
-    startdt = dtutil.strptime_tz(re.sub("-", " ", start_day), "%m %d %Y")
+    startdt = strptime_tz(re.sub("-", " ", start_day), format="%m %d %Y")
     enddt = startdt + datetime.timedelta(days=1)
     days = int(num_days)
     do_next_day()

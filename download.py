@@ -1,5 +1,5 @@
 from bmo_import import import_URLs
-from crawl_bmo import crawler
+from crawler import crawler
 from parser import request_urls
 
 from optparse import OptionParser
