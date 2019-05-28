@@ -1,4 +1,4 @@
-from bmo.bmo_import import import_URLs
+from bmo_import import import_URLs
 from crawler.crawl_bmo import crawler
 from parser.parse_bmo import request_urls
 
