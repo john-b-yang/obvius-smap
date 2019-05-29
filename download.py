@@ -171,7 +171,7 @@ def crawler(start, end, getDevices, getConfig):
 
                 filename = meter_path.replace(r"[\[\]]", "")
                 filename = datadir + "/" + filename.strip("/").replace("/", "-")
-                filename += "|" + start + "to" + end
+                filename += "-" + start + "to" + end
                 filename += ".csv"
 
                 try:
@@ -194,8 +194,8 @@ def crawler(start, end, getDevices, getConfig):
     print("# of Requests - No Data: ", requests_nodata)
     print("# of Requests - Failed: ", requests_failed)
     print("# of Requests - Total: ", requests_total)
-    no_data_percent = float(requests_nodata)/float(requests_total)
-    failed_percent = float(requests_failed)/float(requests_total)
+    no_data_percent = float(requests_nodata)/float(requests_total)*100
+    failed_percent = float(requests_failed)/float(requests_total)*100
     print(f"Percent of Requests - No Data: {no_data_percent:.3f}")
     print(f"Percent of Requests - Failed: {failed_percent:.3f}")
 
