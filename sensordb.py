@@ -409,7 +409,7 @@ def str_path(s):
     return s.lower().replace(' ', '_').replace('/', '_')
 
 def guess_conf(type, location, header):
-    print("l" + location + "t" + type, file=sys.stderr)
+    print("\nLocation: " + location + ", Type:" + type, file=sys.stderr)
     if type.startswith("Obvius, A8812"):
         conf = { "sensors" : [],  "meters" : [], "extra" : {"Rate": 300} }
         if header:

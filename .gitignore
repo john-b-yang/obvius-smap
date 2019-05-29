@@ -1,7 +1,9 @@
 *.DS_Store
 *.pyc
+
 auth.py
-data/
-__pycache__
 config.ini
 devices.json
+
+data/
+__pycache__/
