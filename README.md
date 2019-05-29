@@ -21,6 +21,15 @@ python download.py -s &lt;start date&gt; -e &lt;end date&gt; -d(evices) -c(onfig
 * -c: [Optional] If passed, program outputs a Config (INI) file containing building + meter information
 * Example: python download.py -s 2019-04-01 -e 2019-04-03 | Returns all data for buildings + meters between April 1st, 2019, and April 3rd, 2019 (inclusive range)
 
+Outputs:
+* If -d is passed, a "devices.json" file is created
+* If -c is passed, a "config.ini" file is created
+* A "data" directory is created containing the CSVs corresponding to building + meter data
+* The last lines of terminal output from running this script provides a summary of the:
+    * Total number of requests
+    * Number of failed requests because no data was found within the given date range.
+    * Number of failed requests for other reasons.
+
 #### Progress Track
 * Data Ingestion: Set up how building data is parsed, interpreted, and stored.
 
