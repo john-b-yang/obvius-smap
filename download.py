@@ -204,9 +204,9 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Specify Start and End \
                         Dates of Building Data Query")
     parser.add_argument("-s", "--start", required=True, type=str, metavar="YYYY-MM-DD",
-                        help="[Required] Start Date of Query (MM-DD-YYYY)")
+                        help="[Required] Start Date of Query (YYYY-MM-DD)")
     parser.add_argument("-e", "--end", required=True, type=str, metavar="YYYY-MM-DD",
-                        help='[Required] End Date of Query (MM-DD-YYYY)')
+                        help='[Required] End Date of Query (YYYY-MM-DD)')
     parser.add_argument("-d", "--devices", required=False, type=bool,
                         default=False, help="[Optional] Download JSON list of buildings + meters")
     parser.add_argument("-c", "--config", required=False, type=bool,

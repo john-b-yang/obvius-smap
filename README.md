@@ -1,9 +1,6 @@
 ## sMAP Building Management Tool
 Maintained by Gabe Fierro, Albert Goto, and John Yang  
 
-#### Overview
-
-
 #### Installation + Setup
 1. "git clone" this repository onto your local machine, then change directory into this repository
 2. Fill out and create necessary authentication file:  
@@ -15,22 +12,17 @@ Maintained by Gabe Fierro, Albert Goto, and John Yang
 4. Run "docker run -it --name smap-container --rm smap".
     * Creates a container for running the code and commands listed below.
 
-#### Commands
-* <i>python download.py -d &lt;MM-DD-YYYY&gt;</i>: Downloads all building data on a specific day.
-* <i>python crawl_bmo.py -l</i>: Generates configuration file (config.ini) that specifies which buildings' data to retrieve.
-* <i>python bmo_import.py config.ini &lt;start date&gt; &lt;days&gt;</i>: Creates and gathers the URLs pointing at data within the date range specified by the "start date" and "days" arguments for each building
-* <i>python parse_bmo.py bmo-output.txt [-u] [-d folder]</i>: Downloads data per URL into a directory specified by the "folder" parameter
+#### Download Command
+python download.py -s &lt;start date&gt; -e &lt;end date&gt; -d(evices) -c(onfig)
+* Purpose: Returns data for all buildings + meters within the context of a single BMO (Building Management Online)
+* -s (YYYY-MM-DD): [Required] Start Date of Query
+* -e (YYYY-MM-DD): [Required] End Date of Query
+* -d: [Optional] If passed, program outputs a JSON file containing building + meter information
+* -c: [Optional] If passed, program outputs a Config (INI) file containing building + meter information
+* Example: python download.py -s 2019-04-01 -e 2019-04-03 | Returns all data for buildings + meters between April 1st, 2019, and April 3rd, 2019 (inclusive range)
 
 #### Progress Track
-
-| To Do | Description |
-| ----- | ----------- |
-| Data Ingestion | Set up how building data is parsed, interpreted, and stored. |
-| Unnecessary Files | bmo_import's dependencies are from sMAP. sensordb, obvius, bmo files may not be necessary (bmo_import.py) |
-| Parsing Error | Many parsing errors when downloading files (parse_bmo.py) |
-
-#### Issues
-- (text-files/bmo-output.txt): Purpose of Starting Day URLs? - Data per day?
+* Data Ingestion: Set up how building data is parsed, interpreted, and stored.
 
 #### Relevant Links:
 - sMAP Documentation: https://pythonhosted.org/Smap/en/2.0/core.html
